@@ -1,0 +1,19 @@
+# Ignorer les environnements virtuels
+.venv/
+venv/
+ENV/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers spécifiques VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Autres fichiers temporaires
+*.bak
+*.tmp
